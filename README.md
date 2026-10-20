@@ -5,7 +5,7 @@
 
 By combining **ResNet18** with **Monte Carlo Dropout**, the system estimates predictive uncertainty alongside classification confidence. This information can help identify predictions that may require human review rather than relying solely on a model's predicted label.
 
----
+--
 
 ## 1. Problem Statement
 
