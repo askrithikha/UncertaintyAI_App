@@ -164,7 +164,7 @@ The notebook can document the training workflow, model configuration, evaluation
 
 - A S KRITHIKHA
 - S ADVIKAA
-- P SOLEHA SNEGHAL
+- P SOLEHA SNEGHAL.
 
 ---
 
